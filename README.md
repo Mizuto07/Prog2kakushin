@@ -9,4 +9,5 @@
 - [work1-screiping](https://github.com/Mizuto07/Prog2kakushin/blob/main/work1_screiping.ipynb)実際にwork1で使用するデータをスクレイピングし、エクセルファイルに書き出すプログラム
 - [work2](https://github.com/Mizuto07/Prog2kakushin/blob/main/work2.ipynb)1次から4次までの関数のグラフをランダムに生成し、そのグラフの軌道を株式市場の変動と見立て、株取引の疑似体験ができるnumpyを用いたゲームプログラム  
 ![work2preview](./work2preview.jpg)
-- [work3](https://github.com/Mizuto07/Prog2kakushin/blob/main/work3.ipynb)（入力された画像からAA（アスキーアート）を作成するopenCVを用いたプログラム）
+- [work3](https://github.com/Mizuto07/Prog2kakushin/blob/main/work3.ipynb)（入力された画像からAA（アスキーアート）を作成するopenCVを用いたプログラム)  
+![work3preview](./work3preview.jpg)
